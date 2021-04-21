@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintArgs": [ "--errors-only,--extension-pkg-whitelist=PyQt5" ],
+    "git.ignoreLimitWarning": true
+}
